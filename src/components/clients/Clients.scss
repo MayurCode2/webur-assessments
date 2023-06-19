@@ -1,0 +1,120 @@
+.clients{
+    margin-top: 8rem;
+}
+
+.circle-c-1{
+width: 24rem;
+height: 24rem;
+background: #F2EAFF;
+
+
+border-radius: 50%;
+}
+
+.circle-c-2{
+    position: relative;
+    bottom: 9rem;
+    left: 3rem;
+width: 18rem;
+height: 18rem;
+background: #EADDFF;
+
+
+border-radius: 50%;
+}
+
+.circle-c-3{
+    position: relative;
+    top: 4rem;
+    left: 4rem;
+
+width: 10em;
+height: 10rem;
+background: #FFFFFF;
+border-radius: 50%;
+text-align:center;
+}
+
+.circle-c-3 h1{
+    position: relative;
+    top: 3rem;
+    font-size: 3rem;
+    
+    
+}
+.client-wrap{
+    display: flex;
+    justify-content: center;
+}
+
+.ellip-1{
+    width: 4rem;
+    position: relative;
+    left: 16rem;
+}
+.ellip-2{
+    position: relative;
+    top: 6rem;
+    right: 2rem;
+    width: 4rem;
+    
+}
+.ellip-3{
+    position: relative;
+    left: 22rem;
+    width: 4rem;
+    top: 5rem;
+}
+
+.ellips:hover{
+    transform: scale(1.1);
+
+}
+
+.client-section{
+    display: flex;
+    flex-direction: column;
+    width: 20rem;
+    margin-left: 5rem;
+}
+
+.client-pro{
+    display: flex;
+    align-items: center;
+    margin-top: 1rem;
+}
+
+.client-pro img{
+    width: 2rem;
+}
+
+.client-section h1{
+   font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 1.5rem;
+display: flex;
+align-items: center;
+
+/* Gray 1 */
+
+color: #333333;
+
+}
+
+.client-p-1{
+    font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 1rem;
+line-height: 33px;
+color: #FF5D22;
+}
+
+.client-p-2{
+    font-family: 'Open Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 0.8rem;
+color: #828282;
+}

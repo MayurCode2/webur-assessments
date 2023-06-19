@@ -1,0 +1,134 @@
+.fetures-section{
+    margin-top: 5rem;
+}
+.text-h-1{
+   display: flex;
+   justify-content: center;
+}
+
+
+.text-h-1 p{
+    background: #EBF2F3;
+border-radius: 3rem;
+
+padding: 0.8rem 2rem 0.8rem 2rem;
+}
+
+.text-h-1 p:hover{
+    transform: scale(1.1);
+}
+
+.text-h-1 p{
+    transition: transform 0.5s;
+}
+
+
+
+.features-wrap{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 2rem;
+}
+
+
+.feature-text{
+    width: 30rem;
+}
+.features-p-1{
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 1rem;
+line-height: 0.8rem;
+color: #FF5D22;
+
+}
+.features-h-2{
+    font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 2rem;
+line-height: 2rem;
+margin-top: 1rem;
+
+color: #333333;
+}
+
+.features-p-2{
+
+font-style: normal;
+font-weight: 400;
+font-size: 0.8rem;
+line-height: 1.2rem;
+color: #828282;
+margin-top: 0.8rem;
+}
+
+.features-p-3{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 1rem;
+    line-height: 1.4rem;
+    color: #EB5757;
+    margin-top: 1rem;
+    
+}
+.features-img{
+    margin-left: 3rem;
+}
+
+.features-img img{
+
+    height: 18rem;
+}
+
+
+.container {
+    margin: 2rem auto;
+    max-width: 44rem;
+  }
+  
+  .report {
+    margin: 1rem;
+    padding: 1.5rem;
+    border-radius: 1rem;
+    box-shadow: 0px 0px 22.3333px 0.930555px rgba(238, 238, 238, 0.88);
+border-radius: 23.2639px;
+  }
+  .type {
+    font-size: 1.2rem;
+  }
+  .measure {
+    font-weight: bold;
+    font-size: 2.6rem;
+    margin-top: 1rem;
+    line-height: 7rem;
+  }
+  
+  /* Generic Styles End */
+  
+  .container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .report {
+    /* Styles as a flex item for its parent */
+    flex: 1 0 0%;
+    min-width: 8rem;
+    max-width: 12rem;
+    height: 13rem;
+    
+    /* Styles as a flex container */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    text-align: center;
+    transition: transform 0.8ms;
+  }
+  .report:hover{
+    transform: scale(1.1);
+  }

@@ -1,0 +1,135 @@
+.sections{
+    height:800px;
+    max-width:100vw;
+    background: linear-gradient(180deg, #E0CEFF 0%, rgba(196, 196, 196, 0) 100%);
+}
+.main-heading{
+    position: absolute;
+width: 42rem;
+height: 6.75rem;
+left: 20rem;
+top: 7rem;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;    
+font-size: 2.5rem;
+line-height: 3.3rem;
+text-align: center;
+    
+}
+.second-heading{
+position: absolute;
+width: 36rem;
+height: 3.3rem;
+left: 22.5rem;
+top: 14rem;
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 19px;
+text-align: center;
+color: #4F4F4F;
+}
+
+
+//button
+
+.heading-btn1{
+   position: absolute;
+width: 8.75rem;
+height: 3rem;
+left: 32rem;
+top: 19rem;
+background: #FF5D22;
+border-radius: 2.5rem;
+color: #FFFFFF;
+
+}
+.heading-btn2{
+position: absolute;
+width: 8.75rem;
+height: 3rem;
+left: 42rem;
+top: 19rem;
+background: #FFFFFF;
+border-radius: 2.5rem;
+}
+
+.heading-btn1:hover{
+    background: #FFFFFF;
+    color: black;
+
+}
+.heading-btn2:hover{
+    background: #FF5D22;
+    color:#FFFFFF;
+}
+
+
+.heading-img{
+position: absolute;
+left: 32%;
+right: 29.1%;
+top: 65%;
+
+}
+
+
+//social icon
+
+
+
+.sheading-1{
+margin-top: 6rem;
+}
+.sheading-2{
+   margin-bottom: 5rem;
+   margin-left: 3rem;
+}
+
+.sheading-3{
+   margin-top: 1rem;
+   margin-left: 5rem;
+}
+
+.sheading-4{
+    margin-bottom: 5rem;
+    margin-left: 5rem;
+ 
+}
+
+.sheading-5{
+    margin-left: 25rem;
+    margin-top: 1rem;
+
+}
+
+.sheading-6{
+    margin-bottom: 5rem;
+    margin-left: 3rem;
+}
+.sheading-7{
+    margin-left: 5rem;
+    margin-top: 2rem;
+    
+}
+.sheading-8{
+    margin-bottom: 5rem;
+    margin-left: 2rem;
+}
+
+
+.social-icon{
+    position: absolute;
+    top: 39rem;
+    display: flex;
+}
+
+.social-icon img{
+    width: 4rem;
+}
+
+.social-icon img:hover{
+    width: 5rem;
+}

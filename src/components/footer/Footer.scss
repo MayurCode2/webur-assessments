@@ -1,0 +1,158 @@
+.footer{
+    background: #1A1F39;
+   height: 860px;
+    clip-path: polygon(0 25%, 100% 0, 100% 100%, 0% 100%);
+    margin-top: 5rem;
+  color: #ffffff;
+    
+}
+
+.info{
+    position: relative;
+    top: 13rem;
+}
+
+.info-container{
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+
+.info-1 h1{
+  font-size: 1.3rem;
+}
+.info-1 p{
+    font-size: 0.8rem;
+}
+
+.devicer {
+  width: 70rem;
+  display: block;
+  height: 1px;
+  background-color:#ffffff;
+  margin: 40px auto 0;
+}   
+
+.search{
+  margin-top: 1rem;
+  display: flex;
+  font-size: 0.8rem;
+  margin-left: 5rem;
+}
+
+.search-btn{
+  border: solid 2px #FFFFFF;
+  padding: 1px;
+  height: 2.5rem;
+}
+
+.search-in{
+  height: 2.5rem;
+  border: solid 2px;
+  width: 12rem;
+
+}
+
+.search-t{
+  font-size: 1rem;
+}
+
+
+.info-cantainer-2{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.info-drop{
+  background: #1A1F39;
+  border: solid 2px #FFFFFF;
+  border-radius: 5px;
+  height: 2.5rem;
+  width: 10rem;
+}
+
+.info-drop-1{
+  margin-top: 1rem;
+  font-size: 0.8rem;  
+  margin-left: 7rem;
+}
+
+.cntr-2{
+  display: flex;
+}
+
+.info-social-i{
+  display: flex;
+  margin-left: 2rem;
+  justify-content: space-around;
+  margin-top: 1rem;
+}
+
+.info-social-i img{
+  width: 2rem;
+  margin-left: 2rem;
+}
+
+.contact-imfo{
+position: relative;
+left: 70rem;
+}
+
+.contact-imfo p{
+  color: #F2C94C;
+
+
+  .info-2{
+    text-align: center;
+    font-size: 0.8rem;
+  }
+}
+
+.info-2 h1{
+  font-size: 1rem;
+ 
+}
+.add{
+  color: #FFFFFF;
+  font-size:0.8rem ;
+}
+.city{
+  font-size: 0.8rem;
+  color: #F2C94C;
+}
+
+.devicer-v{
+  width: 1px;
+  display: block;
+  height: 6rem;
+  background-color:#ffffff;
+  margin: 2rem 1rem 0rem 1rem;
+
+}
+
+
+.imfo-last{
+  display: flex;
+  justify-content: center;
+  margin-top: 1.5rem;
+}
+
+.devicer-h1{
+  width: 70rem;
+  display: block;
+  height: 1px;
+  background-color:#ffffff;
+  margin-left: 5rem;
+
+}
+
+.imfo-end{
+  text-align: center;
+  margin-top: 0.8rem;
+}
+
+.imfo-end p{
+  font-size: 0.8rem;
+}

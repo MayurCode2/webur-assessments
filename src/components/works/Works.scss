@@ -1,0 +1,74 @@
+
+.work{
+    margin-top: 4rem;
+}
+
+.work-h{
+    text-align: center;
+}
+.work-h p{
+    font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 0.8rem;
+line-height: 0.8rem;
+color: #FF5D22;
+
+}
+
+.work-h h1{
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+
+.work-card-wrap{
+    display: flex;
+justify-content: center;
+}
+
+.work-img{
+width: 12rem;
+height: 11rem;
+background: #AADDFF;
+padding: 1rem;
+}
+.work-card-f{
+    text-align: center;
+    margin-top: 1rem;
+
+}
+.work-card-f h1{
+    font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 1rem;
+}
+.work-card-f p{
+ font-family: 'Open Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 0.8rem;
+color: #4F4F4F;
+}
+.work-card{
+    margin: 2rem 0 0 2rem;
+}
+
+.work-img img{
+    width: 10rem;
+    height: 10rem;
+}
+.cnt-2{
+    background: #FFBAD2;
+;
+}
+
+.cnt-3{
+    background: #E0FF9C;
+
+}
+
+.work-card:hover {
+    transform: scale(1.1);
+
+}
